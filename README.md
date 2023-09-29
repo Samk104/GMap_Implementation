@@ -1,4 +1,4 @@
-Directions to use Lab04:
+Directions to use this project:
 1. On opening, the map automatically zooms in to San Francisco area by default as this is the area containing the markers for places.
 
 2. The app should display clustered markers for bicycle shops throughout the San Fransico area, the icons for these are set to a bicycler. When the map is zoomed out, it displays numbers which are actually clusters representing the number of bicycle shops around there. When zoomed in, these clusters split up into different bicycle outsets.
